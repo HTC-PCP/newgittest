@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<meta charset="utf-8">
+		<meta http-equiv="X-UA-COMPATIBLE" content="IE=edge">
+		<meta name="viewport" content="width=device-width, inital-scale=1">
+		<title>GitTest</title>
+		<link rel="stylesheet" href="style.css">
+	</head>
+	<body>
+		<header>
+			<nav>
+			</nav>
+		</header>
+		<section>
+			<ul>
+				<li>Gianna</li>
+				<li>Brandy</li>
+				<li>Carmella</li>
+		</section>
+		<footer>
+		</footer>
+	</body>
+</html>
